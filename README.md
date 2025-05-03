@@ -143,10 +143,7 @@ My approach combines technical expertise with creative problem-solving. I believ
   
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
     <a href="mailto:osamamabrouk015@gmail.com"><img src="https://img.shields.io/badge/Email-osamamabrouk015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/OsamaMabrouk"><img src="https://img.shields.io/badge/LinkedIn-OsamaMabrouk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://osamamabrouk0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://twitter.com/OsamaMabrouk"><img src="https://img.shields.io/badge/Twitter-@OsamaMabrouk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="tel:+201229288395"><img src="https://img.shields.io/badge/Phone-+20_1229288395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
 </div>
 

@@ -157,5 +157,9 @@ My approach combines technical expertise with creative problem-solving. I believ
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github decoration image">
+</div>
+
 <!-- Fixed Snake Animation -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

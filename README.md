@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/OsamaMabrouk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/OsamaMabrouk"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:osamamabrouk015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://osamamabrouk0.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
@@ -23,12 +21,13 @@ A passionate Full Stack Developer with 5+ years of experience in creating beauti
 
 My approach combines technical expertise with creative problem-solving. I believe in crafting clean, efficient code and intuitive user experiences that help individuals and businesses achieve their goals effectively.
 
-- 🔭 Currently working on **building an integrated educational platform**
-- 🌱 Continuously learning **AI and machine learning technologies**
-- 👯 Looking to collaborate on **open source projects and educational initiatives**
-- 💬 Ask me about **web development, Flutter, PHP, UI/UX design**
-- 📍 Based in **Alexandria, Egypt**
-- ⚡ Fun fact: **I enjoy playing the oud and mountain climbing in my free time**
+
+- 🔭 **Currently working on** **an integrated educational platform**  
+- 🌱 **Learning** **AI and machine learning**  
+- 👯 **Open to collaboration on** **open-source projects and educational initiatives**  
+- 💬 **Ask me about** **web development, Flutter, PHP, and UI/UX design**  
+- 📍 **Based in** **Alexandria, Egypt**
+
 
 <br>
 

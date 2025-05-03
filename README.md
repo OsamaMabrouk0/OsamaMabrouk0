@@ -158,7 +158,11 @@ My approach combines technical expertise with creative problem-solving. I believ
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github decoration image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=footer&text=Thank%20You&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Footer Wave Image">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Github decoration image">
 </div>
 
 <!-- Fixed Snake Animation -->

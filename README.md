@@ -153,7 +153,8 @@ My approach combines technical expertise with creative problem-solving. I believ
 
 ### Thank you for visiting my profile! 👨‍💻
   
-<img src="https://komarev.com/ghpvc/?username=OsamaMabrouk0&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/👁️_Visitors-1234-blue?style=for-the-badge&logo=github" alt="Profile Views" />
+
 
 
 </div>
